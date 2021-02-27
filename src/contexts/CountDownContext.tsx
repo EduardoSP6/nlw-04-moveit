@@ -18,7 +18,7 @@ export const CountDownContext = createContext({} as CountDownContextData);
 
 let countDownTimeout : NodeJS.Timeout;
 
-const initialTime = 0.1 * 60;
+const initialTime = 15 * 60;
 
 export function CountDownProvider({ children } : CountDownProviderProps) {
 
