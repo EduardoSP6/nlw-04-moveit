@@ -28,4 +28,4 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ## Deploy efetuado na Vercel
 
-https://moveit-r3ghdw4zc-eduardosp6.vercel.app/
+ https://moveit-eosin-nine.vercel.app 
